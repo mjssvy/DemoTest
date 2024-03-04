@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\demo",
+    "\\demo\\demo"
   ],
-  "SelectedNode": "\\E:\\demowvy",
+  "SelectedNode": "\\demo\\demo\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
