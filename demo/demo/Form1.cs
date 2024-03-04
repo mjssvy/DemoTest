@@ -15,6 +15,7 @@ namespace DEMO
         public Form1()
         {
             InitializeComponent();
+#xin chao cac ban
         }
     }
 }
